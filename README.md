@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-kreutzx-the-funniest-out-of-office-054815cf/LinkZhang/makefun-u-kreutzx-the-funniest-out-of-office/rank.svg)](https://make.fun/bounty/u-kreutzx-the-funniest-out-of-office-054815cf/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-kreutzx-the-funniest-out-of-office-054815cf)
 [![reward](https://make.fun/badge/u-kreutzx-the-funniest-out-of-office-054815cf/LinkZhang/makefun-u-kreutzx-the-funniest-out-of-office/reward.svg)](https://make.fun/bounty/u-kreutzx-the-funniest-out-of-office-054815cf?utm_source=github&utm_medium=readme&utm_campaign=u-kreutzx-the-funniest-out-of-office-054815cf)
 
-I'm out of office until Monday. Your email has been forwarded to my future self, who is also unavailable and slightly less qualified.
+Out of office until Tuesday. I left my laptop with Gary from IT, who has already replied to your email and done a better job than me.
 
 ## Run it
 
